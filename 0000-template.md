@@ -1,6 +1,6 @@
 # Feature name
 
-* Proposal: [SE-NNNN](NNNN-filename.md)
+* Proposal: [LE-NNNN](NNNN-filename.md)
 * Author: [LLVM Developer](https://github.com/llvmdev)
 * Status: **Awaiting review**
 

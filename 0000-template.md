@@ -1,8 +1,4 @@
-# Feature name
-
-* Proposal: [LE-NNNN](NNNN-filename.md)
-* Author: [LLVM Developer](https://github.com/llvmdev)
-* Status: **Awaiting review**
+# Proposal for migrating the LLVM Projects to a unified git repo
 
 ## Introduction
 
